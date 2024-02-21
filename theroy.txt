@@ -1,0 +1,14 @@
+....css....
+cssfull from=cascading style sheets
+1.inline css
+2.enternal css
+3.external css
+........property and vlaue.....
+background -color:red
+color:green
+
+
+.........identifier........
+class
+id
+tag
